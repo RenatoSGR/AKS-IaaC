@@ -11,7 +11,7 @@ terraform {
     resource_group_name  = "tf-state"
     storage_account_name = "tfstateslb"
     container_name       = "tfstate-slbtf"
-    key                  = "D90foS4/PteF8W5g16P5i8e1fBZEVQNBfCYV9TGM3+Q8ZVEWLtYQ2Ss2RgONBLdRxGTRqS9sFxXv+ASt2cRglw=="
+    key                  = ""
   }*/
 }
 
