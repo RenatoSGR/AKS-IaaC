@@ -2,6 +2,18 @@
 
 ## AKS and Integrations modules for IaaC - Terraform
 
+AKS modules, including: 
+
+- AKS cluster
+- AKS node pools
+- AKS private DNS zone
+- ACR
+- ACR role assignment
+- Key Vault
+- Key Vault role assignment
+- rg
+- vnet
+
 ## Requirements for Running the AKS Module
 
 Provider requirements:
